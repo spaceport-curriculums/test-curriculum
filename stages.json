@@ -1,0 +1,20 @@
+{
+  [
+    "id": 1,
+    "parent": 0,
+    "children": [2],
+    "tests": [
+      "shuffle_test.py"
+    ],
+    "instructions": "step1.md"
+  ],
+  [
+    "id": 2,
+    "parent": 1,
+    "chilrden": [],
+    "tests": [
+      "deal_test.py"
+    ],
+    "instructions": "step2.md"
+  ]
+}
