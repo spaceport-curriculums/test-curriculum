@@ -6,7 +6,8 @@
     "tests": [
       "shuffle_test.py"
     ],
-    "instructions": "step1.md"
+    "instructions": "step1.md",
+    "location": "stage1/"
   },
   {
     "id": 2,
@@ -15,6 +16,7 @@
     "tests": [
       "deal_test.py"
     ],
-    "instructions": "step2.md"
+    "instructions": "step2.md",
+    "location": "stage2/"
   }
 ]
