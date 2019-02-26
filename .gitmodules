@@ -1,8 +1,0 @@
-[submodule "stage1"]
-	path = stage1
-	url = https://github.com/codingandcommunity/test-project.git
-	branch = stage1
-[submodule "stage2"]
-	path = stage2
-	url = https://github.com/codingandcommunity/test-project.git
-	branch = stage2
