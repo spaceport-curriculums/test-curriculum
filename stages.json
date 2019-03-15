@@ -18,5 +18,14 @@
     ],
     "instructions": "step2.md",
     "location": "stage2f/"
+  },
+  {
+    "id": 3,
+    "parent": 2,
+    "chilrden": [],
+    "tests": [
+    ],
+    "instructions": "step3.md",
+    "location": "stage3f/"
   }
 ]
